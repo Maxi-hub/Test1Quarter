@@ -1,0 +1,15 @@
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\bin\Debug\net6.0\Test1Quarter.exe
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\bin\Debug\net6.0\Test1Quarter.deps.json
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\bin\Debug\net6.0\Test1Quarter.runtimeconfig.json
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\bin\Debug\net6.0\Test1Quarter.dll
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\bin\Debug\net6.0\Test1Quarter.pdb
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.csproj.AssemblyReference.cache
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.AssemblyInfoInputs.cache
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.AssemblyInfo.cs
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.dll
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\refint\Test1Quarter.dll
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.pdb
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\Test1Quarter.genruntimeconfig.cache
+C:\Users\Emma\Desktop\GB\Контрольная работа по основному блоку I четверть\Test1Quarter\obj\Debug\net6.0\ref\Test1Quarter.dll

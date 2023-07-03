@@ -8,7 +8,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
-    
+   
 string[] GetArray(int length) 
 {     
     string[] array = new string[length];     
@@ -27,7 +27,6 @@ int GetLength()
     return length; 
 }  
 
-
-
 int length = GetLength(); 
 string[] array = GetArray(length); 
+Console.WriteLine("[" + (String.Join(", ", array) + "]"));
