@@ -21,7 +21,7 @@ string[] GetArray(int length)
     for (int i = 0; i < length; i++)     
     {         
         Console.WriteLine("Введите значения массива");
-        array[i] = Console.ReadLine();     
+        array[i] = Console.ReadLine()!;     
     }     
     return array; 
 }  
