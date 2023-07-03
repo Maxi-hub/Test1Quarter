@@ -8,6 +8,12 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
+int GetLength() 
+{     
+    Console.WriteLine("Введите длину массива");     
+    int length = Convert.ToInt32(Console.ReadLine());     
+    return length; 
+}  
    
 string[] GetArray(int length) 
 {     
@@ -20,13 +26,22 @@ string[] GetArray(int length)
     return array; 
 }  
    
-int GetLength() 
-{     
-    Console.WriteLine("Введите длину массива");     
-    int length = Convert.ToInt32(Console.ReadLine());     
-    return length; 
-}  
+
+void NewArray(string[] array, int length)
+{
+    string[] newArray = new string[length];
+    for (int i = 0; i < length; i++)
+    {  
+        int lengthOfRow = array[i].Length;
+        if(lengthOfRow <= 3)
+        {
+            newArray[i] = array[i];
+        }
+    }
+    Console.WriteLine("[" + (String.Join(", ", newArray) + "]"));
+}
 
 int length = GetLength(); 
 string[] array = GetArray(length); 
 Console.WriteLine("[" + (String.Join(", ", array) + "]"));
+NewArray(array, length);
