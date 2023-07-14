@@ -30,16 +30,17 @@ string[] GetArray(int length)
 void NewArray(string[] array, int length)
 {
     string[] newArray = new string[length];
-    for (int i = 0; i < length; i++)
-    {  
-        int lengthOfRow = array[i].Length;
-        if(lengthOfRow <= 3)
+    
+    for(int i = 0; i < length; i++)
+    {   
+        if (array[i].Length <= 3)
         {
             newArray[i] = array[i];
         }
     }
-    Console.WriteLine("[" + (String.Join(", ", newArray) + "]"));
+    Console.WriteLine("[" + String.Join(", ", newArray.OfType<string>()) + "]");
 }
+
 
 int length = GetLength(); 
 string[] array = GetArray(length); 
